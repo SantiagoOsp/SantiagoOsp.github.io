@@ -108,6 +108,22 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+	
+	.water-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+	}
+	.water-table th, .water-table td {
+		border: 1px solid #cccccc4b;
+		padding: 10px;
+		text-align: left;
+		font-size: 15px;
+	}
+	.water-table th {
+		background: #e0f3ff4b;
+		font-weight: bold;
+	}
 
 /* Type */
 
