@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+#perfilRocio{
+	font-size: large;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
+}
+
 /* Basic */
 
 	@-ms-viewport {
